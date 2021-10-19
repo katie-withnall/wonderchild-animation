@@ -1,0 +1,55 @@
+html {
+    font-size: 120%;
+    margin: 60px;
+  }
+  
+  body {
+   
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: cursive;
+  }
+  footer {
+    text-align: left;
+    background-color: pink;
+    border: 3px solid purple;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    color: mediumorchid;
+    font-family: cursive;
+    font-size: 60px;
+  }
+  h2 { 
+    color: mediumorchid;
+    font-family: cursive;
+  }
+  
+  /* class selectors */
+  
+  .main-text {
+    text-align: justified;
+    margin-left: 340px;
+    margin-right: 340px;
+  }
+  .nobullet {
+    list-style: none;
+  }
+  /* id selectors */
+  
+  #main-logo {
+    border: 3px solid black;
+    border-radius: 7px;
+    
+  }
+  #katie-image {
+    border: 2px solid green;
+    Border-radius: 100px;
+    
+  }
+  #katie-image:hover {
+    transform: scale(1.1) rotate(10deg);
+  }
+  

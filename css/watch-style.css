@@ -1,0 +1,16 @@
+body {
+    font-size: 25px;
+    font-family: cursive;
+  }
+  .main-title {
+    font-size: 40px;
+    text-align: center;
+    color: mediumorchid;
+    border: 6px solid mediumorchid;
+    border-radius: 60px;
+  }
+  .main-image {
+    border: 3px solid orange;
+    
+  }
+  
