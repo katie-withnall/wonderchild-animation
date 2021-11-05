@@ -16,15 +16,13 @@ footer {
 
 /* fonts */
 
-h1 {
+h1, h2 {
   color: mediumorchid;
   font-family: cursive;
-  font-size: 60px;
 }
 
-h2 { 
-  color: mediumorchid;
-  font-family: cursive;
+h1 {
+  font-size: 60px;
 }
 
 section {
