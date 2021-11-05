@@ -35,7 +35,7 @@ section {
 /* class selectors */
 
 .main-text {
-  text-align: justified;
+  text-align: justify;
 }
 
 .nobullet {
